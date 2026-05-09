@@ -1,0 +1,64 @@
+{
+  "personal": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "city": "",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "extra": ""
+  },
+  "summary": "",
+  "education": [
+    {
+      "institution": "",
+      "degree": "",
+      "field": "",
+      "start": "",
+      "end": "",
+      "grade": "",
+      "highlights": []
+    }
+  ],
+  "experience": [
+    {
+      "company": "",
+      "role": "",
+      "start": "",
+      "end": "",
+      "bullets": []
+    }
+  ],
+  "military": {
+    "role": "",
+    "unit": "",
+    "rank": "",
+    "start": "",
+    "end": "",
+    "bullets": [],
+    "skipped": false,
+    "national_service": false
+  },
+  "volunteering": [
+    {
+      "organization": "",
+      "role": "",
+      "start": "",
+      "end": "",
+      "description": ""
+    }
+  ],
+  "skills": {
+    "technical": [],
+    "languages": [
+      {"name": "", "level": ""}
+    ],
+    "soft": []
+  },
+  "meta": {
+    "tuned_to_job": false,
+    "job_keywords": [],
+    "last_updated": ""
+  }
+}

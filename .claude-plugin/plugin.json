@@ -1,0 +1,19 @@
+{
+  "name": "cv-builder",
+  "description": "Hebrew CV builder for Claude Code. Conversationally collects personal details, summary, education, professional experience, military service, volunteering, and skills, then generates a professionally-formatted PDF in Hebrew (RTL). Optionally tunes the CV to a target job description.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tal Gurevich"
+  },
+  "homepage": "https://github.com/talgurevich/cv-skill",
+  "repository": "https://github.com/talgurevich/cv-skill",
+  "license": "MIT",
+  "keywords": [
+    "cv",
+    "resume",
+    "hebrew",
+    "rtl",
+    "pdf",
+    "skill"
+  ]
+}

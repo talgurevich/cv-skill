@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Generated PDFs (don't commit user PDFs)
+*.pdf
+!docs/**/*.pdf
+
+# Local Claude Code state
+.claude/
+.claude-cache/
+
+# OS / temp
+*.log
+*.tmp

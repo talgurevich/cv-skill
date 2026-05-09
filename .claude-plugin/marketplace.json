@@ -1,0 +1,25 @@
+{
+  "name": "cv-skill",
+  "owner": {
+    "name": "Tal Gurevich"
+  },
+  "description": "Hebrew CV builder skill for Claude Code — conversational, RTL, PDF output.",
+  "plugins": [
+    {
+      "name": "cv-builder",
+      "source": "./",
+      "description": "Hebrew CV builder. Conversationally collects 7 sections and generates a professional Hebrew RTL PDF. Optionally tunes the CV to a target job description.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Tal Gurevich"
+      },
+      "keywords": [
+        "cv",
+        "resume",
+        "hebrew",
+        "rtl",
+        "pdf"
+      ]
+    }
+  ]
+}
