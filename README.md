@@ -11,6 +11,10 @@
 
 ---
 
+![CV builder sample output](./docs/sample-cv-preview.png)
+
+---
+
 ## ✨ Features
 
 - **שיחה בעברית** — A friendly, step-by-step Hebrew conversation; never feels
